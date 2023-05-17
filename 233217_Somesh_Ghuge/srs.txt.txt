@@ -1,0 +1,61 @@
+Employee Requirement System
+  
+1.Introduction:
+
+The Employee Recruitment System is a software application designed to optimize the process of hiring new employees.
+ The system aims to facilitate efficient management of  applications, job postings,candidate evaluation and selection.
+
+2. Functional Requirements
+   2.1 User Registration and Authentication
+       - User registration process
+       - User login and authentication
+       - Password management (reset, recovery)
+
+   2.2 Job Posting and Search
+       - Employer ability to post job openings
+       - Job search functionality for job seekers
+       - Filtering and sorting options for job search results
+
+   2.3 Application Submission and Tracking
+       - Job seekers can submit applications for job openings
+       - Application tracking and status updates for job seekers and           	employers
+       - Notification system for application updates
+
+   2.4 Resume/CV Management
+       - Job seekers can upload and manage their resumes/CVs
+       - Resume parsing for automatic data extraction
+       - Resume/CV storage and retrieval
+
+   2.5 Candidate Screening and Evaluation
+       - Employers can review candidate profiles and applications
+       - Screening tools (e.g., filtering, shortlisting)
+
+  2.6 Communication 
+       - Messaging system between job seekers and employers
+       - Interview scheduling 
+       - Feedback and follow-up communication
+
+3. Non-Functional Requirements
+   3.1 User Interface
+       - Intuitive and user-friendly design
+       - Responsive layout for different devices
+      
+   3.2 Performance and Scalability
+       - Fast response times
+       - Scalability to handle increased user load
+       - Efficient database queries
+
+   3.3 Security and Privacy
+       - Secure user authentication and authorization
+       - Encryption of sensitive data (e.g., passwords)
+       - Protection against common web vulnerabilities (e.g SQL                       injection)
+     
+  3.4 Compatibility
+       - Cross-browser compatibility (e.g., Chrome, Firefox, Safari)
+       - Compatibility with different operating systems
+
+   3.5 Reliability 
+       - High availability and minimal downtime
+       - Backup and disaster recovery strategies
+
+
